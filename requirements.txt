@@ -1,0 +1,4 @@
+openfisca-france==176.1.0
+numpy>=1.26
+networkx>=3
+openpyxl
